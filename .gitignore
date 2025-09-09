@@ -1,0 +1,18 @@
+# Compiled C++ files
+*.exe
+*.o
+fire_detection_sensor
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
